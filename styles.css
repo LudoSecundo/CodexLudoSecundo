@@ -1,1 +1,40 @@
+h1 											                                        /*Main website heading*/
+ 		{ 
+ 			color: black; 
+ 			font-size: 32pt; 
+ 			font-style: bold; 
+ 			font-family: "Arial Black", sans-serif; 
+ 		} 
 
+h2										                                          /*Sub-page headings*/
+		{
+			color: black; 
+ 			font-size: 24pt; 
+ 			font-style: italic; 
+ 			font-family: "Arial Black", sans-serif; 	
+		}
+
+h3											                                        /*Headings within sub-pages*/
+		{
+			color: black; 
+ 			font-size: 20pt; 
+ 			font-style: initial; 
+ 			font-family: "Arial Black", sans-serif;
+		}
+
+h4											                                      /*Headings within articles*/
+		{
+			color: black; 
+ 			font-size: 18pt; 
+ 			font-style: initial; 
+ 			font-family: "Arial Black", sans-serif;
+		}
+
+
+p.pclass1										                                  /*This formats most normal words*/
+	{										                                        /*This gets a class so it's not class 0*/
+		font-family: "Open Sans", sans-serif;					            /*That would bug me*/
+		color: black; 
+ 		font-size: 14pt;
+		padding: 5px;		
+	}
