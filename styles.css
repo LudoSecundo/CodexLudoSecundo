@@ -44,6 +44,7 @@ ul												/*list font*/
 		font-family: "Open Sans", sans-serif;					            
 		color: black; 
  		font-size: 14pt;
-		padding: 20px;	
+		padding: 5px;
+		text-indent: 20px;
 		
 	}
