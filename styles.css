@@ -38,3 +38,12 @@ p.pclass1										                                  /*This formats most normal 
  		font-size: 14pt;
 		padding: 5px;		
 	}
+
+li												/*list font*/
+	{
+		font-family: "Open Sans", sans-serif;					            
+		color: black; 
+ 		font-size: 14pt;
+		padding: 5px;	
+		
+	}
