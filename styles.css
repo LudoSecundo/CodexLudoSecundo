@@ -39,7 +39,7 @@ p.pclass1										                                  /*This formats most normal 
 		padding: 5px;		
 	}
 
-li												/*list font*/
+ul												/*list font*/
 	{
 		font-family: "Open Sans", sans-serif;					            
 		color: black; 
